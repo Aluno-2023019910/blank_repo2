@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Este é um arquivo de teste
 Nova linha adicionada
 
@@ -6,3 +7,6 @@ ALTERAÇÃO FEITA DIRETAMETNE NO GITHUB:
 -Data: 14/04/2025
 -Autor: Aluno-2023019910
 Alteração do Aluno 1: seg 14 abr 2025 20:19:10 -03
+=======
+Alteração do aluno 2:seg 14 abri 2025
+>>>>>>> fce737d (Alteração de Alexsander)
